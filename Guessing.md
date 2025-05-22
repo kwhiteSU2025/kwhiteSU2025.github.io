@@ -15,7 +15,7 @@ flowchart TD
     D --> B
 ```
 ### Steps taken:
-1. The computer selects a random whole number between 1 and 10 is chosen.
+1. The computer selects a random whole number between 1 and 10.
 2. The participant is asked to guess the number.
 3. The computer validates that the input was a whole number between 1 and 10.
 4. If the input was invalid, the participant is told to only guess whole numbers between 1 and 10, then sent back to step 2 to guess again.
